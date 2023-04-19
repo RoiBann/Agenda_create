@@ -13,6 +13,7 @@ Actuellement, nous avons seulement la possibilité de créer un utilisateur et d
 
 
 ```bash
+Symfony CLI version v4.25.9
   composer install 
   - Créer la BDD: 
   php bin/console doctrine:database:create
